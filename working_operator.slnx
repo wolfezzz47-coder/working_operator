@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Matrix/Matrix.csproj" />
+  <Project Path="working_operator/working_operator.csproj" />
+</Solution>
